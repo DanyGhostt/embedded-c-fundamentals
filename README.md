@@ -246,8 +246,4 @@ graph TD
 - Certificación: [ANSI C for Embedded Systems (Udemy)](https://www.udemy.com/share/107Rti3@eRQj9VKbXlKjItGx65mh6I99XTnbwO9ueD2_y6dSKBneA-Nr_WvLklVuKDWJAD7DhA==/)
 - IDE & Herramientas: Code::Blocks, GCC / MinGW, Git & GitHub.
 
----
 
-## 📄 Licencia / License
-
-Este repositorio se distribuye bajo la licencia [MIT](LICENSE). Siéntete libre de utilizar estos códigos como referencia de estudio o base para tus proyectos embebidos.

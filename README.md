@@ -30,7 +30,7 @@ Los temas cubren desde los fundamentos esenciales del lenguaje C hasta conceptos
 ---
 
 ### 🇬🇧 English
-This repository contains a comprehensive, structured, and fully documented collection of practical exercises developed during the Udemy certification course: **[ANSI C for Embedded Systems](https://www.udemy.com/share/107Rti3@eRQj9VKbXlKjItGx65mh6I99XTnbwO9ueD2_y6dSKBneA-Nr_WvLklVuKDWJAD7DhA==/)**.
+This repository contains a comprehensive, structured, and fully documented collection of practical exercises developed during the Udemy certification course: **[ANSI C for Embedded Systems](https://www.udemy.com/course/programacion-en-lenguaje-c-orientado-a-microcontroladores/?couponCode=MT260928G2BNEW)**.
 
 All projects have been created, tested, and validated in **Code::Blocks IDE** using the **GCC/MinGW** toolchain. Each exercise includes clean source code, bilingual explanatory comments, and its native `.cbp` Code::Blocks project file for seamless 1-click execution.
 

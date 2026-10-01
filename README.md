@@ -4,15 +4,15 @@
 [![C++](https://img.shields.io/badge/Bonus-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![IDE](https://img.shields.io/badge/IDE-Code%3A%3ABlocks-2A52BE?logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
 [![Compiler](https://img.shields.io/badge/Compiler-GCC%20%2F%20MinGW-blue?logo=gnu)](https://gcc.gnu.org/)
-[![Udemy Course](https://www.udemy.com/course/programacion-en-lenguaje-c-orientado-a-microcontroladores/?couponCode=MT260928G2BNEW)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Udemy Course](https://img.shields.io/badge/Udemy-Course-A435F0?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/course/programacion-en-lenguaje-c-orientado-a-microcontroladores/?couponCode=MT260928G2BNEW)
+
 
 ---
 
 ## 📖 Descripción General / Overview
 
 ### 🇪🇸 Español
-Este repositorio contiene una colección completa, estructurada y documentada de ejercicios prácticos desarrollados durante el curso y certificación de Udemy: **[ANSI C for Embedded Systems](https://www.udemy.com/share/107Rti3@eRQj9VKbXlKjItGx65mh6I99XTnbwO9ueD2_y6dSKBneA-Nr_WvLklVuKDWJAD7DhA==/)**.
+Este repositorio contiene una colección completa, estructurada y documentada de ejercicios prácticos desarrollados durante el curso y certificación de Udemy: **[ANSI C for Embedded Systems](https://www.udemy.com/course/programacion-en-lenguaje-c-orientado-a-microcontroladores/?couponCode=MT260928G2BNEW)**.
 
 Todos los proyectos han sido implementados, probados y verificados con el entorno de desarrollo integrado **Code::Blocks** utilizando el compilador **GCC/MinGW**. Cada ejercicio incluye código fuente limpio, comentarios bilingües explicativos y su archivo de proyecto `.cbp` correspondiente para apertura inmediata en Code::Blocks.
 
